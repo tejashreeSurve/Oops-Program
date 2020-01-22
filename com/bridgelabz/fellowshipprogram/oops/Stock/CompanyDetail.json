@@ -1,0 +1,18 @@
+{
+  "listOfCompanyShare": [
+    {
+      "companyId": 6,
+      "stockSymbol": "alto",
+      "numberOfShare": 9,
+      "priceForEachShare": 200000,
+      "amountOfCompay": 70000000
+    },
+    {
+      "companyId": 7,
+      "stockSymbol": "bmw",
+      "numberOfShare": 20,
+      "priceForEachShare": 100000,
+      "amountOfCompay": 8000000
+    }
+  ]
+}

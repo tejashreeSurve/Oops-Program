@@ -1,0 +1,20 @@
+[
+  {
+    "price": 3390000,
+    "numberOfShare": 678,
+    "priceForEachShare": 5000,
+    "stockName": "rice"
+  },
+  {
+    "price": 560000,
+    "numberOfShare": 56,
+    "priceForEachShare": 10000,
+    "stockName": "wheat"
+  },
+  {
+    "price": 102000,
+    "numberOfShare": 34,
+    "priceForEachShare": 3000,
+    "stockName": "pulses"
+  }
+]

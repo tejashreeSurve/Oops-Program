@@ -1,0 +1,18 @@
+{
+  "listOfTranscation": [
+    {
+      "transactionId": "tejalto",
+      "buyerName": "tej",
+      "sellerName": "alto",
+      "dateTime": "22/01/20 10:17:43",
+      "tranAmount": 200000
+    },
+    {
+      "transactionId": "altotej",
+      "buyerName": "tej",
+      "sellerName": "alto",
+      "dateTime": "22/01/20 10:17:43",
+      "tranAmount": 200000
+    }
+  ]
+}

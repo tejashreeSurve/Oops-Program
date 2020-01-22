@@ -1,0 +1,62 @@
+{
+  "ObjectWheat": [
+    {
+      "name": "normal",
+      "weight": 4,
+      "pricePerKg": 45,
+      "totalWheat": 0
+    }
+  ],
+  "ObjectPulses": [
+    {
+      "name": "sprouts",
+      "weight": 3,
+      "pricePerKg": 34,
+      "totalPulses": 0
+    }
+  ],
+  "ObjectRice": [
+    {
+      "name": "kolam",
+      "weight": 3,
+      "pricePerKg": 56,
+      "totalRice": 0
+    },
+    {
+      "name": "basamati",
+      "weight": 2,
+      "pricePerKg": 78,
+      "totalRice": 0
+    }
+  ],
+  "objectRice": [
+    {
+      "name": "kolam",
+      "weight": 3,
+      "pricePerKg": 56,
+      "totalRice": 0
+    },
+    {
+      "name": "basamati",
+      "weight": 2,
+      "pricePerKg": 78,
+      "totalRice": 0
+    }
+  ],
+  "objectPulses": [
+    {
+      "name": "sprouts",
+      "weight": 3,
+      "pricePerKg": 34,
+      "totalPulses": 0
+    }
+  ],
+  "objectWheat": [
+    {
+      "name": "normal",
+      "weight": 4,
+      "pricePerKg": 45,
+      "totalWheat": 0
+    }
+  ]
+}

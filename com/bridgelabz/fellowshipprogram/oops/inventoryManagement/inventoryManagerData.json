@@ -1,0 +1,62 @@
+{
+  "ObjectWheat": [
+    {
+      "name": "cheap",
+      "weight": 3,
+      "pricePerKg": 45,
+      "totalWheat": 135
+    }
+  ],
+  "ObjectPulses": [
+    {
+      "name": "kalavatan",
+      "weight": 2,
+      "pricePerKg": 32,
+      "totalPulses": 64
+    }
+  ],
+  "ObjectRice": [
+    {
+      "name": "basamti",
+      "weight": 3,
+      "pricePerKg": 45,
+      "totalRice": 135
+    },
+    {
+      "name": "kolam",
+      "weight": 2,
+      "pricePerKg": 67,
+      "totalRice": 134
+    }
+  ],
+  "objectPulses": [
+    {
+      "name": "kalavatan",
+      "weight": 2,
+      "pricePerKg": 32,
+      "totalPulses": 64
+    }
+  ],
+  "objectRice": [
+    {
+      "name": "basamti",
+      "weight": 3,
+      "pricePerKg": 45,
+      "totalRice": 135
+    },
+    {
+      "name": "kolam",
+      "weight": 2,
+      "pricePerKg": 67,
+      "totalRice": 134
+    }
+  ],
+  "objectWheat": [
+    {
+      "name": "cheap",
+      "weight": 3,
+      "pricePerKg": 45,
+      "totalWheat": 135
+    }
+  ]
+}

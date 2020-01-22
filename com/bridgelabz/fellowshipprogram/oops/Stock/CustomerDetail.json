@@ -1,0 +1,34 @@
+{
+  "CustomerList": [
+    {
+      "customerId": 1,
+      "nameOfCustomer": "tej",
+      "amountOfCustomer": 4000000,
+      "numberOfShare": 10,
+      "pricePerShare": 100000
+    },
+    {
+      "customerId": 2,
+      "nameOfCustomer": "tanvi",
+      "amountOfCustomer": 500000,
+      "numberOfShare": 7,
+      "pricePerShare": 20000
+    }
+  ],
+  "customerList": [
+    {
+      "customerId": 1,
+      "nameOfCustomer": "tej",
+      "amountOfCustomer": 4000000,
+      "numberOfShare": 10,
+      "pricePerShare": 100000
+    },
+    {
+      "customerId": 2,
+      "nameOfCustomer": "tanvi",
+      "amountOfCustomer": 500000,
+      "numberOfShare": 7,
+      "pricePerShare": 20000
+    }
+  ]
+}
